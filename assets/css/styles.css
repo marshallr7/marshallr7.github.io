@@ -3,6 +3,12 @@ span {
     color: white;
     size: 20px;
 }
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 body {
     background-color: #22252b;
     font-family: 'JetBrains Mono', monospace;
